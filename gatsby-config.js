@@ -1,6 +1,7 @@
 const path = require(`path`)
 
 module.exports = {
+  pathPrefix: "/jamstack-demo",
   siteMetadata: {
     title: `JAMSTACK.id`,
     description: `Kick off your next, great Gatsby project with this default starter with TailwindCSS and common dev tools. This barebones starter ships with the main Gatsby configuration files you might need.`,
