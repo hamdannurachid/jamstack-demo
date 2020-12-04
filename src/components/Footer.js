@@ -10,7 +10,7 @@ const Footer = () => (
 
        © {new Date().getFullYear()}, Built with
     {` `}
-    <a href="#" className="dark:text-gray-50">Gatsby</a>
+    <a className="dark:text-gray-50">Gatsby</a>
 
 
 
