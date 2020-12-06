@@ -1,13 +1,12 @@
 ---
-title : "Blog pertama dengan postingan pertama"
+title : "Post dan Front Matter"
 date: "28-11-2020"
 type: "blog"
-thumbnailImage: ../../images/gatsby-astronaut.png
+thumbnailImage: ../../images/0_t_zu2aTk59Ctdrvl.jpg
 ---
 
-![alt text](../../images/gatsby-astronaut.png "Title")
-hai ini post pertama
-![alt text](../../images/photo6170486373958658705.jpg "Title")
+![alt text](../../images/0_t_zu2aTk59Ctdrvl.jpg "Judul Gambar")
+
 
 <p class="py-6" > The basic blog page layout is available and all using the default Tailwind CSS classes(although there are a few hardcoded style tags).If you are going to use this in your project, you will want to convert the classes into components.</p>
 

@@ -1,19 +1,14 @@
 ---
-title : "bismillah postingan pertama"
+title : "Apa Itu JAMStack?"
 date: "28-11-2020"
-featuredImage: ../images/gatsby-astronaut.png
+thumbnailImage: ../images/1_mwfDsFY_OpYlURBevO_KgQ.jpeg
 ---
 
-![alt text](../images/gatsby-astronaut.png "Title")
-hai ini post pertama
-![alt text](../images/photo6170486373958658705.jpg "Title")
+![](../images/1_mwfDsFY_OpYlURBevO_KgQ.jpeg )
 
-<p class="py-6">The basic blog page layout is available and all using the default Tailwind CSS classes (although there are a few hardcoded style tags). If you are going to use this in your project, you will want to convert the classes into components.</p>
+<!-- ![alt text](../images/photo6170486373958658705.jpg) -->
 
-<h1 class="py-2 font-sans">Heading 1</h1>
-<h2 class="py-2 font-sans">Heading 2</h2>
-<h3 class="py-2 font-sans">Heading 3</h3>
-<h4 class="py-2 font-sans">Heading 4</h4>
-<h5 class="py-2 font-sans">Heading 5</h5>
+Apa sih JAMStack itu? Dalam dunia web development sering kita dengar istilah stack, yang langsung terbesit adalah sebuah gabungan dari komponen-komponen seperti sistem operasi, database, dan http server, ya seperti LAMP ataupun MEAN stack. Apabila dalam LAMP (Linux, Apache, MySQL, PHP) ataupun MEAN (MongoDB, Express, Angular, NodeJS) terdapat komponen database dan juga sistem operasi, dalam JAMStack hanya terdapat client-side app (Javascript), API dan Markup. Ya, kepanjangan dari JAMStack adalah Javascript, API and Markup Stack.
 
 
+Menurut website jamstack.org, JAMStack tidak hanya terpaku pada teknologi spesifik, namun merupakan cara baru dalam membangun sebuah website yang memiliki performa yang lebih baik, lebih aman, murah dan memiliki developer experience yang lebih baik.

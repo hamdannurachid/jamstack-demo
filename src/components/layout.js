@@ -26,17 +26,13 @@ const Layout = ({ children }) => {
   return (
     <>
       <ThemeProvider>
-        <body className="leading-normal tracking-normal text-white gradient transition-all duration-300">
-          <div className="bg-white-700 dark:bg-gray-900 text-gray-700 dark:text-gray-200 transition-all duration-300">
-            <Header siteTitle={data.site.siteMetadata.title} />
-            <div className="pt-24"
-              style={{
-                margin: `0 auto`,
-              }}>
-              <main>{children}</main>
-              <Footer />
-            </div>
-          </div>
+        <body className="leading-normal bg-white-700 dark:bg-gray-900 dark:text-gray-200 tracking-normal text-white gradient transition-all duration-300">
+
+          <Header siteTitle={data.site.siteMetadata.title} />
+
+          <main>{children}</main>
+          <Footer />
+
         </body>
       </ThemeProvider>
     </>
