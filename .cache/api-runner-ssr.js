@@ -1,14 +1,14 @@
 var plugins = [{
-      plugin: require('C:/Users/HAMDAN NURACHID/Pictures/gatsby/jamstack-sawala-gatsby-tailwindcss/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('C:/Users/HAMDAN NURACHID/Pictures/gatsby/jamstack-demo/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/HAMDAN NURACHID/Pictures/gatsby/jamstack-sawala-gatsby-tailwindcss/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('C:/Users/HAMDAN NURACHID/Pictures/gatsby/jamstack-demo/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/gatsby-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"4a9773549091c227cd2eb82ccd9c5e3a"},
     },{
-      plugin: require('C:/Users/HAMDAN NURACHID/Pictures/gatsby/jamstack-sawala-gatsby-tailwindcss/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('C:/Users/HAMDAN NURACHID/Pictures/gatsby/jamstack-demo/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"YOUR_GOOGLE_ANALYTICS_TRACKING_ID","head":false,"anonymize":true,"respectDNT":true,"exclude":["/preview/**","/do-not-track/me/too/"],"pageTransitionDelay":0,"optimizeId":"YOUR_GOOGLE_OPTIMIZE_TRACKING_ID","experimentId":"YOUR_GOOGLE_EXPERIMENT_ID","variationId":"YOUR_GOOGLE_OPTIMIZE_VARIATION_ID","defer":false,"sampleRate":5,"siteSpeedSampleRate":10,"cookieDomain":"example.com"},
     },{
-      plugin: require('C:/Users/HAMDAN NURACHID/Pictures/gatsby/jamstack-sawala-gatsby-tailwindcss/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('C:/Users/HAMDAN NURACHID/Pictures/gatsby/jamstack-demo/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
