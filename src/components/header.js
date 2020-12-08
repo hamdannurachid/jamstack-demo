@@ -7,7 +7,7 @@ function Header({ siteTitle }) {
   const [isExpanded, toggleExpansion] = useState(false)
 
   return (
-    <nav className="sticky top-0 z-30 shadow flex items-center justify-between flex-wrap py-6 px-8 sm:px-24 bg-white-700 dark:bg-gray-900 border-b-4 border-yellow-500 transition-all duration-300">
+    <nav className="sticky top-0 z-30 flex items-center justify-between flex-wrap py-6 px-8 sm:px-24 bg-gray-50 dark:bg-gray-900 border-t-8 border-yellow-500 transition-all duration-300">
       <div className="flex items-center flex-shrink-0 text-white mr-6">
         <Link
           to={`/`}

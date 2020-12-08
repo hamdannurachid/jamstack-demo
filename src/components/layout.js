@@ -26,7 +26,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <ThemeProvider>
-        <body className="leading-normal bg-white-700 dark:bg-gray-900 dark:text-gray-200 tracking-normal text-white gradient transition-all duration-300">
+        <body className="leading-normal  bg-gray-50 dark:bg-gray-900 dark:text-gray-200 tracking-normal text-white gradient transition-all duration-300">
 
           <Header siteTitle={data.site.siteMetadata.title} />
 
