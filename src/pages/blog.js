@@ -135,7 +135,7 @@ export default ({ data }) => (
 
 export const query = graphql`
  {
-    allMarkdownRemark{
+    allMarkdownRemark (filter: {frontmatter: {key: {eq: "blog"}}}){
       edges {
         node {
           fields{

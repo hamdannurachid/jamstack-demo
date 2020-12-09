@@ -2,6 +2,7 @@
 title : "Pengenalan Apa Itu JAMStack?"
 date: "28-11-2020"
 thumbnailImage: ../images/1_mwfDsFY_OpYlURBevO_KgQ.jpeg
+key: tutorial
 ---
 
 ![](../images/1_mwfDsFY_OpYlURBevO_KgQ.jpeg )

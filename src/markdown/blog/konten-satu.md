@@ -1,8 +1,8 @@
 ---
 title : "Post dan Front Matter"
 date: "28-11-2020"
-type: "blog"
 thumbnailImage: ../../images/0_t_zu2aTk59Ctdrvl.jpg
+key: tutorial
 ---
 
 ![alt text](../../images/0_t_zu2aTk59Ctdrvl.jpg "Judul Gambar")

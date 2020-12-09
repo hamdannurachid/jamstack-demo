@@ -9,6 +9,6 @@ exports.components = {
   "component---src-pages-index-js": () => import("./../../../src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
   "component---src-pages-tentang-js": () => import("./../../../src/pages/tentang.js" /* webpackChunkName: "component---src-pages-tentang-js" */),
   "component---src-pages-tutorial-js": () => import("./../../../src/pages/tutorial.js" /* webpackChunkName: "component---src-pages-tutorial-js" */),
-  "component---src-template-detail-blog-js": () => import("./../../../src/template/detail_blog.js" /* webpackChunkName: "component---src-template-detail-blog-js" */)
+  "component---src-template-detail-tutorial-js": () => import("./../../../src/template/detail_tutorial.js" /* webpackChunkName: "component---src-template-detail-tutorial-js" */)
 }
 

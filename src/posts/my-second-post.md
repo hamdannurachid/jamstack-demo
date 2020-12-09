@@ -2,6 +2,7 @@
 title : "JUDUL: Membuat Website Blog Menggunakan Hugo dan Netlify"
 date: "28-11-2020"
 thumbnailImage: ../images/1_-vK4r68T6Wpum-HdVzE3JA.png
+key: blog
 ---
 
 ##  Why do we use it? 
